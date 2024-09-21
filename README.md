@@ -37,6 +37,7 @@ datasets/
 models/
 ├── yolov8/                  # YOLOv8 model configuration and weights
 ├── dope/                    # DOPE model configuration and weights
+├── Gen6D/                   # Gen6D model configuration and tests
 scripts/
 ├── train.py                 # Script for training the model
 ├── eval.py                  # Script for evaluating the model
