@@ -45,10 +45,8 @@ scripts/
 ```
 
 ## Usage
-```text
 1. Clone the Repository
-bash
-Copiar código
+```text
 git clone https://github.com/username/door-pose-estimation-dataset.git
 cd door-pose-estimation-dataset
 ```
