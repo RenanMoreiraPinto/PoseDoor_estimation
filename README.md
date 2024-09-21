@@ -42,3 +42,12 @@ scripts/
 ├── train.py                 # Script for training the model
 ├── eval.py                  # Script for evaluating the model
 └── dataset-prep.py          # Helper script for dataset preprocessing
+
+
+## Usage
+```text
+1. Clone the Repository
+bash
+Copiar código
+git clone https://github.com/username/door-pose-estimation-dataset.git
+cd door-pose-estimation-dataset
