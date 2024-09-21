@@ -42,7 +42,7 @@ scripts/
 ├── train.py                 # Script for training the model
 ├── eval.py                  # Script for evaluating the model
 └── dataset-prep.py          # Helper script for dataset preprocessing
-
+```
 
 ## Usage
 ```text
@@ -51,3 +51,25 @@ bash
 Copiar código
 git clone https://github.com/username/door-pose-estimation-dataset.git
 cd door-pose-estimation-dataset
+```
+
+## Download Instructions
+The dataset is not included directly in this repository due to its size. You can request access to the dataset by contacting Renan Moreira at renanmoreira@usp.br 
+or through the link provided in the paper after acceptance.
+
+## License
+This dataset is made available for research purposes only. By using this dataset, you agree to cite the original paper and give proper credit to the authors.
+
+## Citation
+If you use this dataset or the models in your research, please cite our paper:
+```
+@article{Moreira2024DoorDetection,
+  title={Identification and Pose Estimation for Doors Under Occlusion Using Synthetic and Real Data},
+  author={Renan Moreira, Thiago Segreto, Juliano D. Negri, João C. V. Soares, Marcelo Becker, and Vivian S. Medeiros},
+  journal={To be published},
+  year={2024}
+}
+```
+
+
+
