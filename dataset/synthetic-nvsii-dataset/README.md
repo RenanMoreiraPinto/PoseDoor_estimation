@@ -1,5 +1,5 @@
 # NVSII synthetic data generator
 
-![Alt text](images/)
+![Alt text](examples/00000.json)
 
 
