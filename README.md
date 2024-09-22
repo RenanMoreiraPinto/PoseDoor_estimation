@@ -1,4 +1,5 @@
 # Door Identification and Pose Estimation Dataset
+![Alt text](image/show.jpg)
 
 This repository contains the dataset used for the paper **"Identification and Pose Estimation for Doors Under Occlusion Using Synthetic and Real Data"**.
 
