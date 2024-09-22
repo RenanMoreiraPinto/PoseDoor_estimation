@@ -1,0 +1,20 @@
+{
+    "camera_settings": [
+        {
+            "name": "camera",
+            "intrinsic_settings": {
+                "resX": 500,
+                "resY": 500,
+                "fx": 603.5535278320312,
+                "fy": 603.5535278320312,
+                "cx": 250.0,
+                "cy": 250.0,
+                "s": 0.0
+            },
+            "captured_image_size": {
+                "width": 500,
+                "height": 500
+            }
+        }
+    ]
+}

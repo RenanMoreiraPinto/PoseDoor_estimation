@@ -1,0 +1,105 @@
+{
+    "exported_object_classes": [
+        "Black_and_Decker_TR3500SD_2Slice_Toaster",
+        "Calphalon_Kitchen_Essentials_12_Cast_Iron_Fry_Pan_Black",
+        "D_ROSE_773_II_hvInJwJ5HUD",
+        "Door",
+        "LEGO_5887_Dino_Defense_HQ",
+        "LEGO_Creationary_Game_ZJa163wlWp2",
+        "Mens_ASV_Billfish_Boat_Shoe_in_Dark_Brown_Leather_zdHVHXueI3w",
+        "Nescafe_Momento_Mocha_Specialty_Coffee_Mix_8_ct",
+        "Polar_Herring_Fillets_Smoked_Peppered_705_oz_total",
+        "REEF_BANTU",
+        "Womens_Sparkle_Suede_Bahama_in_Silver_Sparkle_Suede_Grey_Patent_x9rclU7EJXx"
+    ],
+    "exported_objects": [
+        {
+            "class": "Black_and_Decker_TR3500SD_2Slice_Toaster",
+            "cuboid_dimensions": [
+                0.16778498888015747,
+                0.2952769994735718,
+                0.19071899354457855
+            ]
+        },
+        {
+            "class": "Calphalon_Kitchen_Essentials_12_Cast_Iron_Fry_Pan_Black",
+            "cuboid_dimensions": [
+                0.3223550021648407,
+                0.3236280083656311,
+                0.1462389975786209
+            ]
+        },
+        {
+            "class": "D_ROSE_773_II_hvInJwJ5HUD",
+            "cuboid_dimensions": [
+                0.11174599826335907,
+                0.29785099625587463,
+                0.17200300097465515
+            ]
+        },
+        {
+            "class": "Door",
+            "cuboid_dimensions": [
+                0.8299999833106995,
+                2.049999952316284,
+                0.1850000023841858
+            ]
+        },
+        {
+            "class": "LEGO_5887_Dino_Defense_HQ",
+            "cuboid_dimensions": [
+                0.4517170190811157,
+                0.34734100103378296,
+                0.261709988117218
+            ]
+        },
+        {
+            "class": "LEGO_Creationary_Game_ZJa163wlWp2",
+            "cuboid_dimensions": [
+                0.4357070028781891,
+                0.07540299743413925,
+                0.27505001425743103
+            ]
+        },
+        {
+            "class": "Mens_ASV_Billfish_Boat_Shoe_in_Dark_Brown_Leather_zdHVHXueI3w",
+            "cuboid_dimensions": [
+                0.10899999737739563,
+                0.29263001680374146,
+                0.10727199912071228
+            ]
+        },
+        {
+            "class": "Nescafe_Momento_Mocha_Specialty_Coffee_Mix_8_ct",
+            "cuboid_dimensions": [
+                0.09121599793434143,
+                0.06441399455070496,
+                0.16138599812984467
+            ]
+        },
+        {
+            "class": "Polar_Herring_Fillets_Smoked_Peppered_705_oz_total",
+            "cuboid_dimensions": [
+                0.15053999423980713,
+                0.03151799738407135,
+                0.08429200202226639
+            ]
+        },
+        {
+            "class": "REEF_BANTU",
+            "cuboid_dimensions": [
+                0.10506999492645264,
+                0.280938982963562,
+                0.14922800660133362
+            ]
+        },
+        {
+            "class": "Womens_Sparkle_Suede_Bahama_in_Silver_Sparkle_Suede_Grey_Patent_x9rclU7EJXx",
+            "cuboid_dimensions": [
+                0.24841000139713287,
+                0.08943399786949158,
+                0.08510300517082214
+            ]
+        }
+    ]
+}
