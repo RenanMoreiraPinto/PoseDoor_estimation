@@ -1,3 +1,4 @@
+import blenderproc as bproc  # BlenderProc must be imported first
 import subprocess
 import argparse
 

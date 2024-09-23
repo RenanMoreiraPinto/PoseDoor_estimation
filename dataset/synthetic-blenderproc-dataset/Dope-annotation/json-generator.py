@@ -7,7 +7,7 @@ from PIL import Image
 
 # Argument parsing
 parser = argparse.ArgumentParser()
-parser.add_argument('camera', nargs='?', default="camera_positions", help="Path to the camera file")
+parser.add_argument('camera', nargs='?', default="camera_positions_1", help="Path to the camera file")
 parser.add_argument('scene', nargs='?', default="scene.blend", help="Path to the scene.blend file")
 parser.add_argument('output_dir', nargs='?', default="output", help="Path to where the final files will be saved")
 args = parser.parse_args()
