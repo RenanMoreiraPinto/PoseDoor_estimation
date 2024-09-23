@@ -3,8 +3,8 @@
 
 This repository contains the dataset used for the paper **"Identification and Pose Estimation for Doors Under Occlusion Using Synthetic and Real Data"**.
 
-https://github.com/RenanMoreiraPinto/PoseDoor_estimation/blob/main/dataset/synthetic-blenderproc-dataset/Dope-annotation/output_video.mp4
-
+<video src= https://github.com/RenanMoreiraPinto/PoseDoor_estimation/blob/main/dataset/synthetic-blenderproc-dataset/Dope-annotation/output_video.mp4>
+</video>
 ## Overview
 
 The dataset is designed for training and evaluating door detection and 6-DoF pose estimation models in indoor environments. The data includes both **synthetic** and **real-world images** of various door types in different configurations, lighting conditions, and levels of occlusion.
