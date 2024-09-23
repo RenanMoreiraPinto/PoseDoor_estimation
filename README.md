@@ -3,7 +3,7 @@
 
 This repository contains the dataset used for the paper **"Identification and Pose Estimation for Doors Under Occlusion Using Synthetic and Real Data"**.
 
-<video src= https://github.com/RenanMoreiraPinto/PoseDoor_estimation/blob/main/dataset/synthetic-blenderproc-dataset/Dope-annotation/output_video.mp4>
+<video src= "https://github.com/RenanMoreiraPinto/PoseDoor_estimation/blob/main/dataset/synthetic-blenderproc-dataset/Dope-annotation/output_video.mp4">
 </video>
 ## Overview
 
